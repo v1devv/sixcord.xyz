@@ -81,11 +81,6 @@ body {
     color: #ffffff;
 }
 
-.navbar .currentPage,
-.navbar .currentPage:hover {
-    color: var(--light-purple);
-}
-
 .navbar .flex {
     justify-content: space-between;
 } 
