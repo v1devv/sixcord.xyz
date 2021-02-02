@@ -3,11 +3,9 @@
 /* Body */
 :root {
     --primary-color: #292a2e;
-	--secondary-color: #202024;
-	--grey-text: #c9ccd6;
+    --secondary-color: #202024;
+    --grey-text: #c9ccd6;
     --error-color: #fc4747;
-    --purple: #663399;
-    --light-purple: #8f45d9;
 }
 
 * {
