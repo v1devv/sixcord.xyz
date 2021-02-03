@@ -60,7 +60,6 @@ body {
     color: #ffffff;
     height: 70px;
     font-weight: 400;
-    background-color: var(--secondary-color);
     border-bottom: var(--purple) 5px solid;
 }
 
